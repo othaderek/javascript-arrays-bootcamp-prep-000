@@ -1,8 +1,1 @@
-var stuff = {
-  'a',
-  'b',
-  'c',
-  'd'
-}
-
-stuff
+var stuff = [1,2,3,4,5,6,7]

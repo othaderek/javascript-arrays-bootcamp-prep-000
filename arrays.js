@@ -1,6 +1,4 @@
-var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
-console.log(chocolateBars)
+function addElementToBeginningOfArray() {
+  
+}
 
-chocolateBars.push("hersheys")
-
-console.log(chocolateBars)

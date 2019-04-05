@@ -2,7 +2,7 @@ var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles']
 
 function addelementmentToBeginningOfarrayay(array, element) {
   
-  arrayay = [...array, elementt]
+  arrayay = [...array, element]
   
 }
 

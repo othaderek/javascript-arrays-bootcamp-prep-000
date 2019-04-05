@@ -6,13 +6,13 @@ function addElementToBeginningOfArray(array, element) {
   
 }
 
-function destructivelyAddElementToBeginningOfArray(array, element) {
+function destructivelyAddElementToBeginningOfArray(array, element {
   
   array = array.unshift(element)
   
 }
 
-function addElementToEndOfArray(arayr, element) {
+function addElementToEndOfArray(array, element) {
   array = [element, ...array]
 }
 

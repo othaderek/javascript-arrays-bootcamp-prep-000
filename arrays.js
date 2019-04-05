@@ -10,17 +10,17 @@ function addElementToBeginningOfArray(array, element) {
 function destructivelyAddElementToBeginningOfArray(array, element) {
   
   array = array.unshift(element)
-  console.log(array)
+  return array
 }
 
 function addElementToEndOfArray(array, element) {
   array = [element, ...array]
-  console.log(array)
+  return array
 }
 
 function destructivelyAddElementToEndOfArray(array, element) {
   array = array.push(element)
-  console.log(array)
+  return array
 }
 
 function accessElementInArray(array, index) {

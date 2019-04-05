@@ -1,6 +1,6 @@
 function addElementToBeginningOfArray(arr, ele) {
   
-  arr
+  arr = [...arr, ele]
   
 }
 
